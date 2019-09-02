@@ -14,9 +14,8 @@ print("experiment git")
 # change for 3nd commit
 print("experiment git")
 
-# change for trying with git bash ???
+# change for trying with git bash, editor changed
 print("experiment git")
-
 
 quit()
 
