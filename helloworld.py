@@ -17,6 +17,9 @@ print("experiment git")
 # change for trying with git bash, editor changed
 print("experiment git")
 
+# change AFTER FIRST MERGE
+print("experiment git")
+
 quit()
 
 # testing git
