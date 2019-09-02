@@ -8,6 +8,8 @@ try:
 except Exception as e:
     print("Oops")
 print("experiment git")
+# change for 2nd commit
+print("experiment git")
 quit()
 
 # testing git
