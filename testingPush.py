@@ -1,1 +1,2 @@
-#just an empty file for testing push function
+li = [1,2,3,4]
+print(li[1::2])
